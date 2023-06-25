@@ -1,7 +1,9 @@
 ****
-# **Linguagem** - _PHP_ -
+# **Linguagem** - PHP -
+***
 ![php-logo](https://github.com/userdanixdev/Linguagem-PHP/assets/132594952/bc1ada11-efee-4397-b000-1f6d105b3720) ![logo curso em video](https://github.com/userdanixdev/Linguagem-PHP/assets/132594952/5f6db355-fbcd-45f5-aa79-d4ab8cd9fb23)
 
+***
 ## Ministradas pelo tutor: GUSTAVO GUANABARA do [Curso em Video](https://https://www.cursoemvideo.com/)
 
 ***
