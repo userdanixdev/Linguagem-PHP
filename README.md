@@ -18,7 +18,7 @@
 * A partir de 1998, o PHP já começava a se destacar como uma das linguagens mais utilizadas na Internet. Foi nessa época que a linguagem foi rebatizada e passou a se chamar ``PHP: Hypertext Preprocessor`` e chegou à sua versão 3.0, com muitas funcionalidades interessantes.
 
 * Em 2000, a quarta versão do PHP surge para eliminar a maioria dos erros e falhas de segurança encontrados pela comunidade. Enquanto isso, Zeev e Andi resolveram reescrever todo o núcleo da linguagem, abandonando quase que completamente o projeto original de Rasmus Lerdorf. Quatro anos depois, em 2004, surge o PHP5 que ficou mundialmente conhecido e atualmente conta com 32 versões internas, com mais de 1000 correções de falhas de segurança.
-  ***
+***
 
 ### Funcionamento do PHP
 ***
@@ -33,7 +33,8 @@
   
 * Para o PHP funcionar corretamente, o servidor precisa ter o Apache, que é um program server, um interpretador PHP (engine) e suporte a um ou mais tipos de banco de dados (geralmente MySQL).
 
-  ###  Para transformar seu computador em um servidor com suporte PHP, você precisa de um sistema ``AMP (Apache + MySQL + PHP).``
+  ###  Para transformar seu computador em um servidor com suporte PHP, você precisa de um sistema:
+        ``AMP (Apache + MySQL + PHP).``
 *   _Para usar PHP no Windows, instalamos um sistema WAMP._ ``Windows (Sistema Operacional) + Apache (Servidor) + MySQL(Banco de dados) + PHP(Linguagem de programação)``
 *   _Para usar PHP no Linux, instalamos um sistema LAMP_ ``Linux + Apache + MySQL + PHP``
 *   _Para usar PHP no Mac, instalamos um sistema MAMP._  ``Mac + Apache + MySQL + PHP_``
