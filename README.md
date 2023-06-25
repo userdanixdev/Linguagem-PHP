@@ -31,7 +31,7 @@
   
 * Para o PHP funcionar corretamente, o servidor precisa ter o Apache, que é um program server, um interpretador PHP (engine) e suporte a um ou mais tipos de banco de dados (geralmente MySQL).
 
-*   _Para transformar seu computador em um servidor com suporte PHP, você precisa de um sistema AMP (Apache + MySQL + PHP)._
-*   _Para usar PHP no Windows, instalamos um sistema WAMP._
-*   _Para usar PHP no Linux, instalamos um sistema LAMP._
-*   _Para usar PHP no Mac, instalamos um sistema MAMP._
+  ###  Para transformar seu computador em um servidor com suporte PHP, você precisa de um sistema ``AMP (Apache + MySQL + PHP).``
+*   _Para usar PHP no Windows, instalamos um sistema WAMP._ ``Windows (Sistema Operacional) + Apache (Servidor) + MySQL(Banco de dados) + PHP(Linguagem de programação)``
+*   _Para usar PHP no Linux, instalamos um sistema LAMP_ ``Linux + Apache + MySQL + PHP``
+*   _Para usar PHP no Mac, instalamos um sistema MAMP._  ``Mac + Apache + MySQL + PHP_``
