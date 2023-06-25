@@ -35,7 +35,18 @@
 
   ###  Para transformar seu computador em um servidor com suporte PHP, você precisa de um sistema:
         AMP (Apache + MySQL + PHP).
+
+ > Download do AMP Server: 
+
+Para aprender PHP você precisa transformar seu computador em um pequeno Web Server. Para isso, deve instalar a versão de um AMP (Apache+MySQL+PHP): https://www.easyphp.org/easyphp-devserver.php 
+
+_Obs1: Em caso de incompatibilidades com o Windows, experimente versões mais antigas do EasyPHP (durante a gravação dos vídeos do curso, usaremos o EasyPHP 5.2.10 puramente por questões de compatibilidade com a máquina virtual WinXP usada no MacOS)._
+
 *   _Para usar PHP no Windows, instalamos um sistema WAMP_ :
      ``Windows (Sistema Operacional) + Apache (Servidor) + MySQL(Banco de dados) + PHP(Linguagem de programação)``
+   > Download do Editor de Código:
+
+Para editar seus códigos PHP, HTML e CSS, você pode utilizar qualquer editor de textos sem formatação. Nosso editor recomendado para esse curso é o Jetbrains PHPStorm: https://www.jetbrains.com/phpstorm/download/#section=windows
+
 *   _Para usar PHP no Linux, instalamos um sistema LAMP_ : ``Linux + Apache + MySQL + PHP``
 *   _Para usar PHP no Mac, instalamos um sistema MAMP_: ``Mac + Apache + MySQL + PHP_``
