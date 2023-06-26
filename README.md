@@ -50,3 +50,4 @@ Para editar seus códigos PHP, HTML e CSS, você pode utilizar qualquer editor d
 
 *   _Para usar PHP no Linux, instalamos um sistema LAMP_ : ``Linux + Apache + MySQL + PHP``
 *   _Para usar PHP no Mac, instalamos um sistema MAMP_: ``Mac + Apache + MySQL + PHP_``
+* 
